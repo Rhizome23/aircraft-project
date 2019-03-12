@@ -26,4 +26,18 @@ for s in states.states:
         pass
 print(data[0:5]) 
 
+# Données convertie au format metres mercartor
+data2 =[]
+for x in data:
+    print(x)
+    data2.append(convert(x[0],x[1],x[2]))
+print("Données convertie en metres mercator")
+print(data2[0:5])
+
+# On centre la carte sur Paris
+paris_lat = 48.8534
+paris_long = 2.3488
+coord= convert(paris_long,paris_lat, None)
+print(coord)
+
 
