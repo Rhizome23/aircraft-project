@@ -1,7 +1,6 @@
 Project using The OpenSky Network API for rendering aircraft location 
 https://opensky-network.org/
 
-Inspiration from
-http://geopandas.org/gallery/create_geopandas_from_pandas.html
-
-
+A few pages : 
+- Hub Airports, airports with the most routes
+- Aircraft flying over France by airline and by model
