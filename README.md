@@ -1,9 +1,10 @@
-Projects with Aircraft 
+#Projects with Aircraft :
 
 
 A few pages :
-- Realtime Flight tracking with OpenSky API, OSM and Python Bokeh 
+- Realtime Flight tracking with OpenSky API, OSM and Python Bokeh :
 [RealTimeFlightTrackingBokeh.ipynb](RealTimeFlightTrackingBokeh.ipynb)
+
+- Realtime Flight tracking for France : plot by airlines, airlines by country and type of aircraft : [RealTimeFlightTrackingPlotAirlinesAircraftModel.ipynb](RealTimeFlightTrackingPlotAirlinesAircraftModel.ipynb)
  
-- Hub Airports, airports with the most routes https://github.com/Rhizome23/aircraft-project/blob/master/airport_number_routes.ipynb
-- Aircraft flying over France by airline and by model https://github.com/Rhizome23/aircraft-project/blob/master/FranceFlyModelCompanyGraph.ipynb
+
