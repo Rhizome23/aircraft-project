@@ -12,4 +12,4 @@ A few pages :
 
 -  Visualisation routes from Airport Charles de Gaulle CDG Paris France with Folium [Routes_from_CDG.ipynb](Routes_from_CDG.ipynb)
 
-- Flight routes visualisation with Opensky API, Python Pandas, Matplotlib and Cartopy [Flight_routes_visualisation.ipynb] (Flight_routes_visualisation.ipynb)
+- Flight routes visualisation with Opensky API, Python Pandas, Matplotlib and Cartopy [Flight_routes_visualisation.ipynb](Flight_routes_visualisation.ipynb)
