@@ -2,6 +2,9 @@
 
 
 A few pages :
+
+- Flight scraper Selenium [FlightScraperSelenium](Flights_scraper_selenium.ipynb)
+
 - Realtime Flight tracking with OpenSky API, OSM, Python Bokeh and Folium  :
 [RealTimeFlightTrackingBokeh.ipynb](RealTimeFlightTrackingBokeh.ipynb)
 
